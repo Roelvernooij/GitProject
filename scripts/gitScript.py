@@ -5,5 +5,5 @@ def formula(a, b):
 formula(4, 9)
 
 def sum(a,b):
-    result = a + b
-    return result
+    resultSum = a + b
+    return resultSum
